@@ -1,0 +1,142 @@
+*{
+  box-sizing: border-box;
+}
+
+
+@font-face {
+    src: url(Fonts/SF-Pro-Text-Regular.otf);
+    font-family: apple-font;
+}
+
+
+
+.headerlol{
+    text-align: center;
+    padding-top: 9px;
+    padding-bottom: 13px;
+    margin: 0px;
+    background-color: rgba(39, 39, 39, 0.75);
+    font-size: 12px;
+    letter-spacing: 0.8px;
+    font-family: apple-font; 
+    position: sticky;
+    top: 0px;
+    width: 100%;
+    backdrop-filter: blur(15px);   
+}
+
+.good{
+    position: relative;
+    top: 2px;
+}
+
+body{
+    margin: 0;
+}
+
+
+
+a:link {
+    color: rgb(220, 220, 220);
+    text-decoration: none;
+  }
+  
+  a:visited {
+    color: rgb(220, 220, 220);
+    text-decoration: none;
+  }
+  
+  a:hover {
+    color: rgb(255, 255, 255);
+    text-decoration: none;
+  }
+  
+  a:active {
+    color: rgb(255, 255, 255);
+    text-decoration: none;
+  }
+
+
+
+
+
+
+
+
+
+
+
+
+  /* section{
+    width: 70vw;
+    float: left;
+    height: 65vh;
+}
+
+
+
+.imageNews{
+    border-radius: 10px;
+}
+
+#one{
+    height: 100%;
+    margin-right: 1vw;
+    margin-left: 2vw;
+    background-image: url("images/sampleimage1.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+}
+
+#two{
+    height: 100%;
+    margin-right: 1vw;
+    margin-left: 1vw;
+    background-image: url("images/sampleimage2.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+}
+ 
+#three{
+    height: 100%;
+    margin-right: 1vw;
+    margin-left: 1vw;
+    margin-top: 0;
+    margin-bottom: 2vw;
+    
+    
+    background-image: url("images/sampleimage3.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+}
+#four{
+    height: 100%;
+    margin-right: 1vw;
+    margin-left: 1vw;
+    margin-top: 3vw;
+    margin-bottom: 0;
+    background-image: url("images/sampleimage4.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+}
+
+
+
+article{
+    width: 20vw;
+    float: left;
+} */
+/* <!-- <section style="margin-top: 6vh">
+            <div style="width: 34vw; height: 30vw; float: left; display: block;"><a href=""><div class="imageNews" id="one"><p>Hi</p></div></a></div>
+            <div style="width: 20vw; height: 30vw; float: left; display: block;"><a href=""><div class="imageNews" id="two"><p>Hi</p></div></a></div>
+            <div style="width: 15vw; height: 14vw; float: left; display: block;"><a href=""><div class="imageNews" id="three"><p>Hi</p></div></a></div>
+            <div style="width: 15vw; height: 14vw; float: left; display: block;"><a href=""><div class="imageNews" id="four"><p>Hi</p></div></a></div>            
+        </section>
+
+        <article>
+            <h2>Article</h2>
+        </article> --> */
